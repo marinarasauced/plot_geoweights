@@ -28,4 +28,4 @@ Run `main.py` with the name of the dataset as the argument:
 python3 /path/to/main.py --file-name placeholder.xlsx
 ```
 
-The script will generate individual and cummulative plots in the `plots/` subdirectory. If you have a large number of quintiles, considering changing the colormap to increase color diversity.
+The script will generate individual and cummulative plots in the `plots/` subdirectory. If you have a large number of quintiles, considering changing the colormap to increase color diversity. The Shapefiles in the `config/` subdirectory were obtained from [Dominique Evans-Bye on ArcGIS](https://hub.arcgis.com/datasets/1b02c87f62d24508970dc1a6df80c98e).
