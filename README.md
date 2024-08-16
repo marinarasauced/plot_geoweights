@@ -13,6 +13,7 @@ Create a virtual environment and install dependencies:
 pip install -r /path/to/requirements.txt
 ```
 
+## Usage
 Add your `.xlsx` dataset to the `data/` subdirectory. It should be formatted as:
 
 | Zip | Units | Quintile |
