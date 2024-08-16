@@ -18,4 +18,5 @@ Add your `.xlsx` dataset to the `data/` subdirectory. It should be formatted
 | Zip | Units | Quintile |
 | --- | --- | --- |
 | 00001 | 12345 | Q3 |
-| 00002 | 67890 | Q2 |
+| 00003 | 67890 | Q2 |
+| 00002 | 00001 | Q3 |
